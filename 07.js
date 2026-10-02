@@ -24,7 +24,7 @@ function blocoFinally() {
 
     console.log("Teste com JSON válido:");
     console.log(
-        safeParseFinally('{"nome": "Lorena"}')
+        safeParseFinally('{"nome": "Letícia"}')
     );
 
     console.log("\nTeste com JSON inválido:");
